@@ -14,3 +14,9 @@ Math, 4th Year, Python
 ## David Araya
 
 Github: sjsPuzzler
+
+## Kevin Wu
+
+Cognitive Science, 1st Year
+
+Github: blankkcanvas
